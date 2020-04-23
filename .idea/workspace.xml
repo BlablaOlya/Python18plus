@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f6478dc-7990-474e-814d-d59f6c7e2491" name="Default Changelist" comment="" />
+    <list id="88a212b6-4d14-4ecb-8c4c-18c884b159bf" name="Revert &quot;lesson2_clean_up&quot;" comment="Revert &quot;lesson2_clean_up&quot;&#10;&#10;This reverts commit d5bb357d" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1arLvRijFvUVtx1p5oSObeYy3I2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f6478dc-7990-474e-814d-d59f6c7e2491" name="Default Changelist" comment="" />
+      <created>1587488995930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587488995930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="387" y="0" key="CommitChangelistDialog2" timestamp="1587489163940">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="387" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587489163940" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1587538474666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587538474666" />
+    <state width="1516" height="205" key="GridCell.Tab.0.bottom" timestamp="1587538474416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1516" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587538474416" />
+    <state width="1516" height="205" key="GridCell.Tab.0.center" timestamp="1587538474415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1516" height="205" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587538474415" />
+    <state width="1516" height="205" key="GridCell.Tab.0.left" timestamp="1587538474415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1516" height="205" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587538474415" />
+    <state width="1516" height="205" key="GridCell.Tab.0.right" timestamp="1587538474415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1516" height="205" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587538474415" />
+    <state x="616" y="321" key="VCS.ChangelistChooser" timestamp="1587489247737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="616" y="321" key="VCS.ChangelistChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587489247737" />
+    <state x="504" y="64" key="VcsDiffUtil.ChangesDialog" timestamp="1587489179293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="504" y="64" key="VcsDiffUtil.ChangesDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587489179293" />
+  </component>
+</project>
