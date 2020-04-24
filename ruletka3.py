@@ -4,13 +4,13 @@ win = False
 numbers = list(range(0, 37))
 print("Ваш вид ставки: внутренняя, на цвет, на дюжину")
 
-bet_type = input()
+bet_type = input().lower().strip()
 inside_bet = "внутренняя"
 color_bet = "на цвет"
 outside_bet = "на дюжину"
 
 print("Ваши ставки, пожалуйста!")
-bet = input()
+bet = input().lower().strip()
 print("Ставки сделаны, ставок больше нет, спасибо!")
 
 x = random.choice(numbers)
