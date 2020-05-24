@@ -25,7 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f6478dc-7990-474e-814d-d59f6c7e2491" name="Default Changelist" comment="" />
+    <list default="true" id="2f6478dc-7990-474e-814d-d59f6c7e2491" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/11less/HW/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/11less/HW/index.py" afterDir="false" />
+    </list>
     <list id="88a212b6-4d14-4ecb-8c4c-18c884b159bf" name="Revert &quot;lesson2_clean_up&quot;" comment="Revert &quot;lesson2_clean_up&quot;&#10;&#10;This reverts commit d5bb357d" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

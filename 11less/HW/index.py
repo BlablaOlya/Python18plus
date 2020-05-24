@@ -13,7 +13,7 @@ def greet(answer):
         quit(0)
 
 
-answer = input("Вы зарегистрированы в нашей системе? \n")
+answer = input("Вы зарегистрированы в нашей системе? Введите 'да' или 'нет' \n")
 greet(answer.strip().title())
 
 login = input("Введите ваш login (используя латинские буквы): \n")
